@@ -4,3 +4,5 @@
           I'll need to first learn current code written in Solidity and then write the same code in Rust using **Solana Anchor**
 [15:00] - The environment for **Anchor is installed**. Although Solana wasn't working in Sindows so I had to install **WSL Ubuntu** for it. Also I've got some issues when running basic hello world program by in Anchoor's **solang** project using solang compiler
           so I switched back to classical **rustc** version
+
+[19:10] - SetUp project for RUST Anchor Solana development, connected the wallet and check configs and compilability. Wrote some Anchor code and started learning "Token Creation Flow" in Solana Ecosystem. Will try to write and deploy MintToken tomorrow, aslo will estimate the deadline for the project
