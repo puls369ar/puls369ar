@@ -9,4 +9,5 @@
 
 # 22.10.2024
 * [11:40] - So far I am trying to create MintToken. Implemented 
-* [15:30] - so Transfer, Aprove, GetBalance functions work. TotalSupply and Allowance to do
+* [15:30] - So Transfer, Aprove, GetBalance functions work. TotalSupply and Allowance to do
+* [18:30] - Learnt some theory about stablecoin. but more info needed. Will finish TotalSupply and Allowance tomorrow and try to figure out what is     needed for our l3usd stablecoin to work
