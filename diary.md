@@ -6,3 +6,7 @@
           so I switched back to classical **rustc** version
 
 [19:10] - SetUp project for RUST Anchor Solana development, connected the wallet and check configs and compilability. Wrote some Anchor code and started learning "Token Creation Flow" in Solana Ecosystem. Will try to write and deploy MintToken tomorrow, aslo will estimate the deadline for the project
+
+# 22.10.2024
+[11:40] - So far I am trying to create MintToken. Implemented 
+[15:30] - so Transfer, Aprove, GetBalance functions work. TotalSupply and Allowance to do
