@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @puls369ar
 - 👀 I’m interested in **Smart Contract Development&Audition**
-- 🌱 I’m currently learning **Solana Anchor Development with RUST**
+- 🌱 I’m currently learning **Solana Anchor Development by RUST**
 - 💞️ I’m looking to collaborate on making DeFi, NFT and blockchain-related products
 - 📫 **Telegram: @puls369ar**
 
