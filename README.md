@@ -12,8 +12,14 @@ You can click the Preview link to take a look at your changes.
 
 # Repository Organizer
 
-Repos where I assembled all the materials and research results about particular Smart Contracts
+Repos where I assembled all the materials and research results about popular Smart Contracts
 | Repo                                                                          | Description  |  Type  |
 |-------------------------------------------------------------------------------|--------------|--------|
 | [uniswapV2-overview](https://github.com/puls369ar/uniswapV2-overview)         | Row 2        | ETH    |
-| [fountain-overview](https://github.com/puls369ar/fountain-overview)    | Row 4        | ETH    |
+| [fountain-overview](https://github.com/puls369ar/fountain-overview)           | Row 4        | ETH    |
+
+Learning
+|                                                                               |              |
+|-------------------------------------------------------------------------------|--------------|
+| [solana-mando](https://github.com/puls369ar/solana-mando)                     | Row 4        |
+| [ethereum-jedi](https://github.com/puls369ar/ethereum-jedi)                   | Row 4        |
