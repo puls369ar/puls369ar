@@ -12,9 +12,15 @@
 * [15:30] - So Transfer, Aprove, GetBalance functions work. TotalSupply and Allowance to do
 * [18:30] - Learnt some theory about stablecoin. but more info needed. Will finish TotalSupply and Allowance tomorrow and try to figure out what is     needed for our l3usd stablecoin to work
 
+
+
 # 23.10.2024
-* 
 * [18:30] - So far we figured out that our L3USD is a stablecoin present on **Polygon Network**. Also it is integrated with **UniswapV3**, paired 
   in a liquidity pool with **USDT** [990.300890161232993299 L3USD: 985.441963 USDT]. But we couldn't figure out what external application 
   stabilizes the price and hence can't define what type of stablecoin are we dealing with. The decision was made to continue implement token's core 
   functionality in Solana.
+
+
+# 25.10.2024
+* [18:55] - Generally Finished UniswapV2 learning. Built and deployed L3USD SPL-TOKEN in Solana Amoy, Market and pools yet to create.
+            Now learning stablecoin creation and ways of deploying L3USD to lif3 blockchain so it acts as a stablecoin. Low priority task to learn              SAFE
