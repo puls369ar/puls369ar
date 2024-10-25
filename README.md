@@ -19,7 +19,8 @@ Repos where I assembled all the materials and research results about popular Sma
 | [fountain-overview](https://github.com/puls369ar/fountain-overview)           | Row 4        | ETH    |
 
 Learning
-|                                                                               |              |
+| Code                                                                          |              |
 |-------------------------------------------------------------------------------|--------------|
-| [solana-mando](https://github.com/puls369ar/solana-mando)                     | Row 4        |
-| [ethereum-jedi](https://github.com/puls369ar/ethereum-jedi)                   | Row 4        |
+| [solana-verd](https://github.com/puls369ar/solana-mando)                      | Row 4        |
+| [ethereum-padawan](https://github.com/puls369ar/ethereum-jedi)                | Row 4        |
+| [darth-ton](#)                  
