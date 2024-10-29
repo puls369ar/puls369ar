@@ -20,6 +20,8 @@
   stabilizes the price and hence can't define what type of stablecoin are we dealing with. The decision was made to continue implement token's core 
   functionality in Solana.
 
+# 29.10.2024
+[10:44] - I believe latest writing was deleted, but no worries I'll provide the whole update here. L3USD was created in Solana as a basic SPL Token together with it's metadata. After I was assigned to create not only L3USD as a token, but it's stabilizing mechanism too for lif3 blockchain. I successfully finished it for the Polygon Amoy testnet. DataPrice here is fetched from Chainlink which doesn't natively support lif3 blockchain, unless we create chainlink node ourselves and provide this information for lif3 blockchain. Currently waiting for team to figure out whether we have a WS protocol working in lif3 blockchain as it is neccessary to become a primary node.
 
 # 25.10.2024
 * [18:55] - Generally Finished UniswapV2 learning. Built and deployed L3USD SPL-TOKEN in Solana Amoy, Market and pools yet to create.
