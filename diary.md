@@ -23,6 +23,9 @@
 # 29.10.2024
 [10:44] - I believe latest writing was deleted, but no worries I'll provide the whole update here. L3USD was created in Solana as a basic SPL Token together with it's metadata. After I was assigned to create not only L3USD as a token, but it's stabilizing mechanism too for lif3 blockchain. I successfully finished it for the Polygon Amoy testnet. DataPrice here is fetched from Chainlink which doesn't natively support lif3 blockchain, unless we create chainlink node ourselves and provide this information for lif3 blockchain. Currently waiting for team to figure out whether we have a WS protocol working in lif3 blockchain as it is neccessary to become a primary node.
 
+# 06.11.2024
+[18:16] - It has been a long week, but a very interesting one. I succcessfully set chainlink node up for both AMOY and LIF3TESTNET chains. Haven't tested data fetch result on LIF3TESTNET yet, because I am limited on contract deployment there by the devs, but everything works fine on AMOY. Moreover I integrated node with stabelcoin logic implemented earlier. Now I will beautify and clarify whole flow, write the script doing all the proccesses and write docs on it.
+
 # 25.10.2024
 * [18:55] - Generally Finished UniswapV2 learning. Built and deployed L3USD SPL-TOKEN in Solana Amoy, Market and pools yet to create.
             Now learning stablecoin creation and ways of deploying L3USD to lif3 blockchain so it acts as a stablecoin. Low priority task to learn              SAFE
