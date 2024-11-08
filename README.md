@@ -12,21 +12,17 @@ You can click the Preview link to take a look at your changes.
 
 # Repository Organizer
 
-Repos where I assembled all the materials and research results about popular Smart Contracts
-| Repo                                                                          | Description  |  Type  |
-|-------------------------------------------------------------------------------|--------------|--------|
-| [uniswapV2-overview](https://github.com/puls369ar/uniswapV2-overview)         | Row 2        | ETH    |
-| [fountain-overview](https://github.com/puls369ar/fountain-overview)           | Row 4        | ETH    |
+Docs of Contracts Learnt 
 
-Learning
-| Repo                                                                          |              |
-|-------------------------------------------------------------------------------|--------------|
-| [solana-verd](https://github.com/puls369ar/solana-mando)                      | Row 4        |
-| [ethereum-padawan](https://github.com/puls369ar/ethereum-jedi)                | Row 4        |
-| [darth-ton](#)      
+- [uniswapV2-overview](https://github.com/puls369ar/uniswapV2-overview)
+- [fountain-overview](https://github.com/puls369ar/fountain-overview)
+
+Learning Systems
+- [solana-verd](https://github.com/puls369ar/solana-mando)    
+- [ethereum-padawan](https://github.com/puls369ar/ethereum-jedi)    
+- [darth-ton](https://github.com/puls369ar/darth-ton)     
 
 Articles
-| Repo                                                                                           |                |
-|-------------------------------------------------------------------------------                 |--------------  |
-| [chainlink-node-creation-flow](https://github.com/puls369ar/chainlink-node-creation-flow)      | Row 4          |
+- [chainlink-node-creation-flow](https://github.com/puls369ar/chainlink-node-creation-flow)
+- [stablecoin-creation-flow](https://github.com/puls369ar/stablecoin-creation-flow)
 
