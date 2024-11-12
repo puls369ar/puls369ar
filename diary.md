@@ -29,3 +29,7 @@
 # 25.10.2024
 * [18:55] - Generally Finished UniswapV2 learning. Built and deployed L3USD SPL-TOKEN in Solana Amoy, Market and pools yet to create.
             Now learning stablecoin creation and ways of deploying L3USD to lif3 blockchain so it acts as a stablecoin. Low priority task to learn              SAFE
+
+# 12.11.2024
+* [18:52] - I don't know why my diary entries are being deleted. Lemme write updates since the last one then. L3USD stablecoin was created and test
+            deployed to lif3Testnet, everything works fine. However, some clarifications are needed from the client side to make it work accordingly. Now I have a task to make `Fountain` system lif3Testnet deployable where I see no problem as there is already `Uniswap` deployed. The problem though is I can't understand where the staked tokens are farmed. There is no logic by which *Treasury* contract should be supplied by farmed tokens. Also, the `Treasury` contract is for two tokens, not one as it is in Masonry.
