@@ -37,3 +37,6 @@
 # 13.11.2024
 * [11:50] - Suggested single token problem solution for *Treasury Contract* and was instructed to wait until deployment will be allowed
             Now I am excited to learn multi-sig technology and implement Gnosis SAFE multi-sig wallet performance in our local lif3Testnet
+
+# 19.11.2024
+* [18:09] - Gnosis SAFE learning is stopped now and I am trying to deploy subgraphs to lif3 custom graph node, also ran by me. The subgraph                     creation flow is already crystal clear, except some currently non-relative details. Right now I am creating a pool in already lif3                  deployed UniswapV3 contract with mock WETH/USDT pair and peg the price to actual price in Pools across different chains
