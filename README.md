@@ -27,5 +27,7 @@ Learning Systems
 Articles
 - [chainlink-node-creation-flow](https://github.com/puls369ar/chainlink-node-creation-flow)
 - [stablecoin-creation-flow](https://github.com/puls369ar/stablecoin-creation-flow)
-- [graph-node-creation-flow](https://github.com/puls369ar/graph-node-creation-flow)
+- [thegraph-articles](https://github.com/puls369ar/graph-node-creation-flow)
+- [seaport-protocol]()
+- [proxy-contracts]()
 
